@@ -1,0 +1,14 @@
+-r requirements.txt
+
+black
+flake8
+isort
+mypy
+twine
+pytest
+pytest-cov
+tox
+sphinx
+sphinx-rtd-theme
+sphinxcontrib-programoutput
+coverage
